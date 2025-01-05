@@ -109,7 +109,7 @@ if choice == "🏠Home":
     
     initialize_session_state()
     st.title("Takora 🤖 ")
-    st.write(" Ask me anythink relared travel 😀 ")
+    st.write(" Ask me anythink related to travelling 😀 ")
 
     chat_placeholder = st.container()
     prompt_placeholder = st.form("Chat-form")
